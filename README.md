@@ -1,1 +1,1 @@
-# multithreaded_sorting_app
+# Multithreaded Sorting App
